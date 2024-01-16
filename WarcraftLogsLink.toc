@@ -1,0 +1,5 @@
+## Interface: 11500
+## Title: WarcraftLogsLink
+## Author: NeuraalLabs
+## Version: 1.0
+WarcraftLogsLink.lua
